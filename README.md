@@ -22,3 +22,5 @@ python agent.py --doc data/practice_docs/p08_chapelst_email.eml
 `--unsafe` is the no-defense agent (used to measure attacks). `--no-cache` busts handbook prompt cache.
 
 Write-up is `output/hw6_report.html`. Open that file in a browser; it does not need the network.
+
+Public repo: https://github.com/jabarie90-ctrl/mgt409-fa26-hw6

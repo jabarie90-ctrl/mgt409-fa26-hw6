@@ -102,4 +102,4 @@ Created at the start of Homework 6. Each of Problems 2–10 has its own section 
 
 **What was lacking after the first prompt:** (none)
 
-**Evidence this was its own step:** public repo URL in this file once pushed.
+**Evidence this was its own step:** https://github.com/jabarie90-ctrl/mgt409-fa26-hw6
