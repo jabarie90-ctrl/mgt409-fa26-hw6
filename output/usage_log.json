@@ -9,7 +9,8 @@
     "output_tokens": 169,
     "cost_usd": 0.00157234,
     "setup": "defended-cache",
-    "run_id": "dd5d5361fbfe"
+    "run_id": "dd5d5361fbfe",
+    "document": "p01_bluehen_quote.html"
   },
   {
     "file": "p08_chapelst_email.eml",
@@ -21,7 +22,8 @@
     "output_tokens": 185,
     "cost_usd": 0.0003547,
     "setup": "defended-cache",
-    "run_id": "c7593754fec2"
+    "run_id": "c7593754fec2",
+    "document": "p08_chapelst_email.eml"
   },
   {
     "file": "p01_bluehen_quote.html",
@@ -33,7 +35,8 @@
     "output_tokens": 170,
     "cost_usd": 0.00159445,
     "setup": "unsafe-nocache",
-    "run_id": "130f56fd0401"
+    "run_id": "130f56fd0401",
+    "document": "p01_bluehen_quote.html"
   },
   {
     "file": "p08_chapelst_email.eml",
@@ -45,7 +48,8 @@
     "output_tokens": 190,
     "cost_usd": 0.0027797,
     "setup": "unsafe-nocache",
-    "run_id": "1ed7ed2176c9"
+    "run_id": "1ed7ed2176c9",
+    "document": "p08_chapelst_email.eml"
   },
   {
     "file": "p01_bluehen_quote.html",
@@ -57,7 +61,8 @@
     "output_tokens": 198,
     "cost_usd": 0.0016078,
     "setup": "unsafe-cache",
-    "run_id": "30fbfee96727"
+    "run_id": "30fbfee96727",
+    "document": "p01_bluehen_quote.html"
   },
   {
     "file": "p02_elmcity_quote.html",
@@ -69,7 +74,8 @@
     "output_tokens": 278,
     "cost_usd": 0.00043987,
     "setup": "unsafe-cache",
-    "run_id": "e0ae34952af2"
+    "run_id": "e0ae34952af2",
+    "document": "p02_elmcity_quote.html"
   },
   {
     "file": "p03_ivyprint_catalog.html",
@@ -81,7 +87,8 @@
     "output_tokens": 199,
     "cost_usd": 0.00039949,
     "setup": "unsafe-cache",
-    "run_id": "f42424580305"
+    "run_id": "f42424580305",
+    "document": "p03_ivyprint_catalog.html"
   },
   {
     "file": "p04_harborstitch_quote.html",
@@ -93,7 +100,8 @@
     "output_tokens": 231,
     "cost_usd": 0.00041876,
     "setup": "unsafe-cache",
-    "run_id": "a780caf72628"
+    "run_id": "a780caf72628",
+    "document": "p04_harborstitch_quote.html"
   },
   {
     "file": "p05_maplemills_quote.pdf",
@@ -105,7 +113,8 @@
     "output_tokens": 185,
     "cost_usd": 0.00035124,
     "setup": "unsafe-cache",
-    "run_id": "a15a2666c3f8"
+    "run_id": "a15a2666c3f8",
+    "document": "p05_maplemills_quote.pdf"
   },
   {
     "file": "p06_qtextile_quote.pdf",
@@ -117,7 +126,8 @@
     "output_tokens": 157,
     "cost_usd": 0.00034274,
     "setup": "unsafe-cache",
-    "run_id": "7331d64f2a3c"
+    "run_id": "7331d64f2a3c",
+    "document": "p06_qtextile_quote.pdf"
   },
   {
     "file": "p07_longwharf_quote.pdf",
@@ -129,7 +139,8 @@
     "output_tokens": 236,
     "cost_usd": 0.00037912,
     "setup": "unsafe-cache",
-    "run_id": "c2122f88c560"
+    "run_id": "c2122f88c560",
+    "document": "p07_longwharf_quote.pdf"
   },
   {
     "file": "p08_chapelst_email.eml",
@@ -141,7 +152,8 @@
     "output_tokens": 179,
     "cost_usd": 0.00034763,
     "setup": "unsafe-cache",
-    "run_id": "7e28bb77d8b7"
+    "run_id": "7e28bb77d8b7",
+    "document": "p08_chapelst_email.eml"
   },
   {
     "file": "p09_westville_email.eml",
@@ -153,7 +165,8 @@
     "output_tokens": 190,
     "cost_usd": 0.0003725,
     "setup": "unsafe-cache",
-    "run_id": "b233a214c7e4"
+    "run_id": "b233a214c7e4",
+    "document": "p09_westville_email.eml"
   },
   {
     "file": "p10_eastrock_email.eml",
@@ -165,7 +178,8 @@
     "output_tokens": 186,
     "cost_usd": 0.0003535,
     "setup": "unsafe-cache",
-    "run_id": "6e391e9ea9f3"
+    "run_id": "6e391e9ea9f3",
+    "document": "p10_eastrock_email.eml"
   },
   {
     "file": "p11_yorkst_quote.html",
@@ -177,7 +191,8 @@
     "output_tokens": 160,
     "cost_usd": 0.00037711,
     "setup": "unsafe-cache",
-    "run_id": "3c9ea3855684"
+    "run_id": "3c9ea3855684",
+    "document": "p11_yorkst_quote.html"
   },
   {
     "file": "p12_bluehen_quote.pdf",
@@ -189,7 +204,8 @@
     "output_tokens": 170,
     "cost_usd": 0.00034598,
     "setup": "unsafe-cache",
-    "run_id": "b9660c0be5b8"
+    "run_id": "b9660c0be5b8",
+    "document": "p12_bluehen_quote.pdf"
   },
   {
     "file": "p01_bluehen_quote.html",
@@ -201,7 +217,8 @@
     "output_tokens": 218,
     "cost_usd": 0.00283858,
     "setup": "unsafe-nocache",
-    "run_id": "4b0473d8cf27"
+    "run_id": "4b0473d8cf27",
+    "document": "p01_bluehen_quote.html"
   },
   {
     "file": "p02_elmcity_quote.html",
@@ -213,7 +230,8 @@
     "output_tokens": 484,
     "cost_usd": 0.00297283,
     "setup": "unsafe-nocache",
-    "run_id": "329430128cdf"
+    "run_id": "329430128cdf",
+    "document": "p02_elmcity_quote.html"
   },
   {
     "file": "p03_ivyprint_catalog.html",
@@ -225,7 +243,8 @@
     "output_tokens": 243,
     "cost_usd": 0.00285233,
     "setup": "unsafe-nocache",
-    "run_id": "b96682bc5652"
+    "run_id": "b96682bc5652",
+    "document": "p03_ivyprint_catalog.html"
   },
   {
     "file": "p04_harborstitch_quote.html",
@@ -237,7 +256,8 @@
     "output_tokens": 220,
     "cost_usd": 0.0028442,
     "setup": "unsafe-nocache",
-    "run_id": "9eff2cc44ab3"
+    "run_id": "9eff2cc44ab3",
+    "document": "p04_harborstitch_quote.html"
   },
   {
     "file": "p05_maplemills_quote.pdf",
@@ -249,7 +269,8 @@
     "output_tokens": 188,
     "cost_usd": 0.00278395,
     "setup": "unsafe-nocache",
-    "run_id": "55301ba34c13"
+    "run_id": "55301ba34c13",
+    "document": "p05_maplemills_quote.pdf"
   },
   {
     "file": "p06_qtextile_quote.pdf",
@@ -261,7 +282,8 @@
     "output_tokens": 152,
     "cost_usd": 0.0027707,
     "setup": "unsafe-nocache",
-    "run_id": "e04ff98bf077"
+    "run_id": "e04ff98bf077",
+    "document": "p06_qtextile_quote.pdf"
   },
   {
     "file": "p07_longwharf_quote.pdf",
@@ -273,7 +295,8 @@
     "output_tokens": 195,
     "cost_usd": 0.00278895,
     "setup": "unsafe-nocache",
-    "run_id": "4db0b99bee39"
+    "run_id": "4db0b99bee39",
+    "document": "p07_longwharf_quote.pdf"
   },
   {
     "file": "p08_chapelst_email.eml",
@@ -285,7 +308,8 @@
     "output_tokens": 176,
     "cost_usd": 0.00277683,
     "setup": "unsafe-nocache",
-    "run_id": "f424c786c458"
+    "run_id": "f424c786c458",
+    "document": "p08_chapelst_email.eml"
   },
   {
     "file": "p09_westville_email.eml",
@@ -297,7 +321,8 @@
     "output_tokens": 196,
     "cost_usd": 0.0028057,
     "setup": "unsafe-nocache",
-    "run_id": "1ab2bd5fdbc2"
+    "run_id": "1ab2bd5fdbc2",
+    "document": "p09_westville_email.eml"
   },
   {
     "file": "p10_eastrock_email.eml",
@@ -309,7 +334,8 @@
     "output_tokens": 221,
     "cost_usd": 0.00280195,
     "setup": "unsafe-nocache",
-    "run_id": "e25ff80b95b1"
+    "run_id": "e25ff80b95b1",
+    "document": "p10_eastrock_email.eml"
   },
   {
     "file": "p11_yorkst_quote.html",
@@ -321,7 +347,8 @@
     "output_tokens": 169,
     "cost_usd": 0.00281183,
     "setup": "unsafe-nocache",
-    "run_id": "c76dbc22325a"
+    "run_id": "c76dbc22325a",
+    "document": "p11_yorkst_quote.html"
   },
   {
     "file": "p12_bluehen_quote.pdf",
@@ -333,7 +360,8 @@
     "output_tokens": 203,
     "cost_usd": 0.0027922,
     "setup": "unsafe-nocache",
-    "run_id": "c208d82df2cf"
+    "run_id": "c208d82df2cf",
+    "document": "p12_bluehen_quote.pdf"
   },
   {
     "file": "p01_bluehen_quote.html",
@@ -345,7 +373,8 @@
     "output_tokens": 159,
     "cost_usd": 0.00035166,
     "setup": "defended-cache",
-    "run_id": "646ddfb6f5b4"
+    "run_id": "646ddfb6f5b4",
+    "document": "p01_bluehen_quote.html"
   },
   {
     "file": "p02_elmcity_quote.html",
@@ -357,7 +386,8 @@
     "output_tokens": 182,
     "cost_usd": 0.00035992,
     "setup": "defended-cache",
-    "run_id": "bb28495294c0"
+    "run_id": "bb28495294c0",
+    "document": "p02_elmcity_quote.html"
   },
   {
     "file": "p03_ivyprint_catalog.html",
@@ -369,7 +399,8 @@
     "output_tokens": 159,
     "cost_usd": 0.00034855,
     "setup": "defended-cache",
-    "run_id": "2dc28b517b77"
+    "run_id": "2dc28b517b77",
+    "document": "p03_ivyprint_catalog.html"
   },
   {
     "file": "p04_harborstitch_quote.html",
@@ -381,7 +412,8 @@
     "output_tokens": 202,
     "cost_usd": 0.0003722,
     "setup": "defended-cache",
-    "run_id": "2e434b8a968a"
+    "run_id": "2e434b8a968a",
+    "document": "p04_harborstitch_quote.html"
   },
   {
     "file": "p05_maplemills_quote.pdf",
@@ -393,7 +425,8 @@
     "output_tokens": 174,
     "cost_usd": 0.0003553,
     "setup": "defended-cache",
-    "run_id": "a9aebb973123"
+    "run_id": "a9aebb973123",
+    "document": "p05_maplemills_quote.pdf"
   },
   {
     "file": "p06_qtextile_quote.pdf",
@@ -405,7 +438,8 @@
     "output_tokens": 172,
     "cost_usd": 0.00036005,
     "setup": "defended-cache",
-    "run_id": "3f50fa79f269"
+    "run_id": "3f50fa79f269",
+    "document": "p06_qtextile_quote.pdf"
   },
   {
     "file": "p07_longwharf_quote.pdf",
@@ -417,7 +451,8 @@
     "output_tokens": 184,
     "cost_usd": 0.0003628,
     "setup": "defended-cache",
-    "run_id": "5d1cbcc03088"
+    "run_id": "5d1cbcc03088",
+    "document": "p07_longwharf_quote.pdf"
   },
   {
     "file": "p08_chapelst_email.eml",
@@ -429,7 +464,8 @@
     "output_tokens": 259,
     "cost_usd": 0.00039456,
     "setup": "defended-cache",
-    "run_id": "c74cf2e063e9"
+    "run_id": "c74cf2e063e9",
+    "document": "p08_chapelst_email.eml"
   },
   {
     "file": "p09_westville_email.eml",
@@ -441,7 +477,8 @@
     "output_tokens": 172,
     "cost_usd": 0.00035081,
     "setup": "defended-cache",
-    "run_id": "1316ef335eaf"
+    "run_id": "1316ef335eaf",
+    "document": "p09_westville_email.eml"
   },
   {
     "file": "p10_eastrock_email.eml",
@@ -453,7 +490,8 @@
     "output_tokens": 174,
     "cost_usd": 0.00035369,
     "setup": "defended-cache",
-    "run_id": "ec73ffa07f91"
+    "run_id": "ec73ffa07f91",
+    "document": "p10_eastrock_email.eml"
   },
   {
     "file": "p11_yorkst_quote.html",
@@ -465,7 +503,8 @@
     "output_tokens": 151,
     "cost_usd": 0.00034343,
     "setup": "defended-cache",
-    "run_id": "669a108af228"
+    "run_id": "669a108af228",
+    "document": "p11_yorkst_quote.html"
   },
   {
     "file": "p12_bluehen_quote.pdf",
@@ -477,7 +516,8 @@
     "output_tokens": 159,
     "cost_usd": 0.00035004,
     "setup": "defended-cache",
-    "run_id": "af946faf3e80"
+    "run_id": "af946faf3e80",
+    "document": "p12_bluehen_quote.pdf"
   },
   {
     "file": "a01_yorkst_quote.html",
@@ -489,7 +529,8 @@
     "output_tokens": 228,
     "cost_usd": 0.00042749,
     "setup": "unsafe-cache",
-    "run_id": "d65fb0b06624"
+    "run_id": "d65fb0b06624",
+    "document": "a01_yorkst_quote.html"
   },
   {
     "file": "a01_yorkst_quote.html",
@@ -501,7 +542,8 @@
     "output_tokens": 169,
     "cost_usd": 0.00035417,
     "setup": "defended-cache",
-    "run_id": "4129292d91e7"
+    "run_id": "4129292d91e7",
+    "document": "a01_yorkst_quote.html"
   },
   {
     "file": "a02_harbors_email.eml",
@@ -513,7 +555,8 @@
     "output_tokens": 190,
     "cost_usd": 0.00036863,
     "setup": "unsafe-cache",
-    "run_id": "0cfe11848bcd"
+    "run_id": "0cfe11848bcd",
+    "document": "a02_harbors_email.eml"
   },
   {
     "file": "a02_harbors_email.eml",
@@ -525,7 +568,8 @@
     "output_tokens": 167,
     "cost_usd": 0.00034931,
     "setup": "defended-cache",
-    "run_id": "429f6c3f3635"
+    "run_id": "429f6c3f3635",
+    "document": "a02_harbors_email.eml"
   },
   {
     "file": "e01_quote.html",
@@ -537,7 +581,8 @@
     "output_tokens": 211,
     "cost_usd": 0.00037215,
     "setup": "defended-cache",
-    "run_id": "59c690bf917c"
+    "run_id": "59c690bf917c",
+    "document": "e01_quote.html"
   },
   {
     "file": "e02_quote.html",
@@ -549,7 +594,8 @@
     "output_tokens": 174,
     "cost_usd": 0.0003529,
     "setup": "defended-cache",
-    "run_id": "1b11ebbef86a"
+    "run_id": "1b11ebbef86a",
+    "document": "e02_quote.html"
   },
   {
     "file": "e03_quote.html",
@@ -561,7 +607,8 @@
     "output_tokens": 189,
     "cost_usd": 0.0003614,
     "setup": "defended-cache",
-    "run_id": "0fcc3b71cfd0"
+    "run_id": "0fcc3b71cfd0",
+    "document": "e03_quote.html"
   },
   {
     "file": "e04_catalog.html",
@@ -573,7 +620,8 @@
     "output_tokens": 158,
     "cost_usd": 0.00034464,
     "setup": "defended-cache",
-    "run_id": "baa6e13a214e"
+    "run_id": "baa6e13a214e",
+    "document": "e04_catalog.html"
   },
   {
     "file": "e05_quote.pdf",
@@ -585,7 +633,8 @@
     "output_tokens": 164,
     "cost_usd": 0.00034827,
     "setup": "defended-cache",
-    "run_id": "6bd7ebeb742e"
+    "run_id": "6bd7ebeb742e",
+    "document": "e05_quote.pdf"
   },
   {
     "file": "e06_quote.pdf",
@@ -597,7 +646,8 @@
     "output_tokens": 159,
     "cost_usd": 0.00035015,
     "setup": "defended-cache",
-    "run_id": "6f7d496dce92"
+    "run_id": "6f7d496dce92",
+    "document": "e06_quote.pdf"
   },
   {
     "file": "e07_quote.pdf",
@@ -609,7 +659,8 @@
     "output_tokens": 171,
     "cost_usd": 0.0003544,
     "setup": "defended-cache",
-    "run_id": "514b22d02df4"
+    "run_id": "514b22d02df4",
+    "document": "e07_quote.pdf"
   },
   {
     "file": "e08_email.eml",
@@ -621,7 +672,8 @@
     "output_tokens": 176,
     "cost_usd": 0.00035028,
     "setup": "defended-cache",
-    "run_id": "0cff6e1545e9"
+    "run_id": "0cff6e1545e9",
+    "document": "e08_email.eml"
   },
   {
     "file": "e09_email.eml",
@@ -633,7 +685,8 @@
     "output_tokens": 165,
     "cost_usd": 0.00035053,
     "setup": "defended-cache",
-    "run_id": "a1dc8e91e04d"
+    "run_id": "a1dc8e91e04d",
+    "document": "e09_email.eml"
   },
   {
     "file": "e10_email.eml",
@@ -645,7 +698,8 @@
     "output_tokens": 210,
     "cost_usd": 0.00036853,
     "setup": "defended-cache",
-    "run_id": "be353086457e"
+    "run_id": "be353086457e",
+    "document": "e10_email.eml"
   },
   {
     "file": "a01_yorkst_quote.pdf",
@@ -657,7 +711,8 @@
     "output_tokens": 191,
     "cost_usd": 0.00035738,
     "setup": "unsafe-cache",
-    "run_id": "b87efe22de26"
+    "run_id": "b87efe22de26",
+    "document": "a01_yorkst_quote.pdf"
   },
   {
     "file": "a01_yorkst_quote.pdf",
@@ -669,7 +724,8 @@
     "output_tokens": 170,
     "cost_usd": 0.00035656,
     "setup": "defended-cache",
-    "run_id": "db233f6a580d"
+    "run_id": "db233f6a580d",
+    "document": "a01_yorkst_quote.pdf"
   },
   {
     "file": "a02_maplemills_quote.pdf",
@@ -681,7 +737,8 @@
     "output_tokens": 282,
     "cost_usd": 0.00040363,
     "setup": "unsafe-cache",
-    "run_id": "a177f185d2d5"
+    "run_id": "a177f185d2d5",
+    "document": "a02_maplemills_quote.pdf"
   },
   {
     "file": "a02_maplemills_quote.pdf",
@@ -693,6 +750,59 @@
     "output_tokens": 175,
     "cost_usd": 0.00035969,
     "setup": "defended-cache",
-    "run_id": "1d52fd6d9369"
+    "run_id": "1d52fd6d9369",
+    "document": "a02_maplemills_quote.pdf"
+  },
+  {
+    "file": "a01_yorkst_quote.pdf",
+    "time": "2026-11-06T00:07:58.856208+00:00",
+    "input_tokens": 21528,
+    "cached_tokens": 10550,
+    "cache_read_tokens": 10550,
+    "cache_write_tokens": 10726,
+    "output_tokens": 185,
+    "cost_usd": 0.00156395,
+    "setup": "unsafe-cache",
+    "run_id": "4c62971ad1b5",
+    "document": "a01_yorkst_quote.pdf"
+  },
+  {
+    "file": "a01_yorkst_quote.pdf",
+    "time": "2026-11-06T00:08:02.767206+00:00",
+    "input_tokens": 21749,
+    "cached_tokens": 10628,
+    "cache_read_tokens": 10628,
+    "cache_write_tokens": 10869,
+    "output_tokens": 161,
+    "cost_usd": 0.00157061,
+    "setup": "defended-cache",
+    "run_id": "e6f6db4b98f3",
+    "document": "a01_yorkst_quote.pdf"
+  },
+  {
+    "file": "a02_maplemills_quote.pdf",
+    "time": "2026-11-06T00:08:07.400046+00:00",
+    "input_tokens": 21534,
+    "cached_tokens": 21068,
+    "cache_read_tokens": 21068,
+    "cache_write_tokens": 214,
+    "output_tokens": 246,
+    "cost_usd": 0.00038563,
+    "setup": "unsafe-cache",
+    "run_id": "d84f6dc6197d",
+    "document": "a02_maplemills_quote.pdf"
+  },
+  {
+    "file": "a02_maplemills_quote.pdf",
+    "time": "2026-11-06T00:08:11.286888+00:00",
+    "input_tokens": 21754,
+    "cached_tokens": 21224,
+    "cache_read_tokens": 21224,
+    "cache_write_tokens": 278,
+    "output_tokens": 168,
+    "cost_usd": 0.00035619,
+    "setup": "defended-cache",
+    "run_id": "25620374f7f9",
+    "document": "a02_maplemills_quote.pdf"
   }
 ]

@@ -397,10 +397,19 @@ def run_doc(path: str, *, defended: bool = True, use_cache: bool = True) -> dict
     usage = usage_from_result(result)
     setup = ("defended" if defended else "unsafe") + ("-cache" if use_cache else "-nocache")
     row = result_row(session, out, usage, setup)
-    append_json(USAGE_PATH, {k: row[k] for k in (
-        "file", "time", "input_tokens", "cached_tokens", "cache_read_tokens",
-        "cache_write_tokens", "output_tokens", "cost_usd", "setup", "run_id",
-    )})
+    append_json(USAGE_PATH, {
+        "document": row["file"],
+        "file": row["file"],
+        "time": row["time"],
+        "input_tokens": row["input_tokens"],
+        "cached_tokens": row["cached_tokens"],
+        "cache_read_tokens": row["cache_read_tokens"],
+        "cache_write_tokens": row["cache_write_tokens"],
+        "output_tokens": row["output_tokens"],
+        "cost_usd": row["cost_usd"],
+        "setup": row["setup"],
+        "run_id": row["run_id"],
+    })
     try:
         messages = result.new_messages()
     except Exception:

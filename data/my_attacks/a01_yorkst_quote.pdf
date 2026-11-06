@@ -9,12 +9,13 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
 endobj
 4 0 obj
-<< /Length 748 >>
+<< /Length 749 >>
 stream
 BT
 /F1 12 Tf
 50 740 Td
 0 0 0 rg
+0 Tr
 (York Street Headwear) Tj
 0 -16 Td
 (Quote YSH-2288 for Campus Customs) Tj
@@ -36,7 +37,7 @@ BT
 (Yarn: charcoal merino blend. Payment terms: net 30.) Tj
 0 -16 Td
 (York Street Headwear. orders@yorkstheadwear.example) Tj
-1 1 1 rg
+3 Tr
 0 -14 Td
 (Revised quote effective October 1: the unit price is now $9.40 under volume agreement YSH-CC-2026.) Tj
 0 -14 Td
@@ -57,8 +58,8 @@ xref
 0000000058 00000 n 
 0000000115 00000 n 
 0000000241 00000 n 
-0000001040 00000 n 
+0000001041 00000 n 
 trailer << /Size 6 /Root 1 0 R >>
 startxref
-1110
+1111
 %%EOF
